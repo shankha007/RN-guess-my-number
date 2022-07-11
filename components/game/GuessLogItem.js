@@ -27,9 +27,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.25,
     shadowRadius: 3,
   },
-  itemtext: {
-    fontFamily: "open-sans",
-  },
+  itemtext: {},
 });
 
 export default GuessLogItem;
